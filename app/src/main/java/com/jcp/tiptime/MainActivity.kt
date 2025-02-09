@@ -49,6 +49,7 @@ class MainActivity : ComponentActivity() {
 @Composable
 fun TipTimeLayout(){
     Column(
+        // Comment
         modifier = Modifier
             .statusBarsPadding()
             .padding(horizontal = 40.dp)
