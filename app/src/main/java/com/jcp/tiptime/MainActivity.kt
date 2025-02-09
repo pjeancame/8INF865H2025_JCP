@@ -91,6 +91,7 @@ fun TipTimeLayoutPreview(){
     }
 }
 
+// More comments
 @Composable
 fun EditNumberField(modifier: Modifier = Modifier){
     var amountImput by remember {mutableStateOf("")}
